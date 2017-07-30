@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.5.0)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SwiftyJSON (3.1.4)
+  - Toast-Swift (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - FMDB
+  - SDWebImage
+  - SwiftyJSON
+  - Toast-Swift (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Toast-Swift: 5b2f8f720f7e78e48511f693df1f9c9a6e38a25a
+
+PODFILE CHECKSUM: 9340c1fbfa3bc52c53b89d99b8651e99bf930a69
+
+COCOAPODS: 1.2.1
